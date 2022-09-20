@@ -7,11 +7,11 @@ setup(
     name="ProjectRouting",
     version="1.0.0",
     author="Chris Oberdalhoff",
-    author_email="",
+    author_email="n/a",
     description="Perform operations on network prefix-list",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="n/a",
     packages=find_packages(),
     install_requires=("ipaddress", "sqlite3", "collections", "netmiko", "time", "os", "openpyxl"),
     classifiers=[
